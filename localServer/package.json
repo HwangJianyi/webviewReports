@@ -1,0 +1,11 @@
+{
+  "name": "webview-test-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js && hdc rport tcp:3000 tcp:3000"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

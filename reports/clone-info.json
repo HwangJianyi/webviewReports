@@ -1,0 +1,30 @@
+{
+  "ohos": {
+    "baseUrl": null,
+    "branch": null,
+    "commit": null,
+    "subpath": null,
+    "sparseCheckout": false,
+    "inputType": "local",
+    "commitHash": null,
+    "checkoutMode": null,
+    "originalUrl": "D:\\rnDev\\enhance\\rntpc_react-native-webview"
+  },
+  "upstream": {
+    "baseUrl": null,
+    "branch": null,
+    "commit": null,
+    "subpath": null,
+    "sparseCheckout": false,
+    "inputType": "local",
+    "commitHash": null,
+    "checkoutMode": null,
+    "originalUrl": "D:\\rnDev\\enhance\\react-native-webview"
+  },
+  "rndoc": {
+    "originalUrl": "D:\\rnDev\\enhance\\rntpc_react-native-webview\\README.md",
+    "inputType": "local",
+    "docFilePath": "D:\\rnDev\\enhance\\rntpc_react-native-webview\\README.md"
+  },
+  "cloneTime": "2026-07-29T14:40:00Z"
+}
